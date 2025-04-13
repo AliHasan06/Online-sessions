@@ -26,9 +26,13 @@ Each session includes:
 
 Quizzes will be linked at the end of each session. These will help track progress and provide insights into areas that need improvement.
 
-### [Quiz - Session 1: Python Basics](#)
+### [Quiz 1: Python Basics](#)
 
-[Quiz - Session 1: Python Basics](https://forms.gle/hzj6ay35e4i6zZ2w8)
+[Quiz 1: Python Basics](https://forms.gle/hzj6ay35e4i6zZ2w8)
+
+### [Quiz 2: Python Data Types Quiz (Tuples, Sets, Lists)](#)
+
+[Quiz 2: Python Data Types Quiz (Tuples, Sets, Lists)](https://forms.gle/b5xbwqtnKxuog7GD7)
 
 
 ## Contributing
@@ -39,7 +43,7 @@ Feel free to contribute by submitting issues, pull requests, or suggestions for 
 
 - **Session 2**: Operators in Python
 - **Session 3**: Control Flow (If/Else)
-- **Session 4**: Loops (For, While)
+- **Session 4**: Slicing , Datatypes , Streamlit
 
 ## Contact
 
